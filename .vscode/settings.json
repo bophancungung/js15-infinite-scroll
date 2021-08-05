@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 20,
+  "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontFamily": "monospace"
+}
